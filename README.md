@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vibhuyadav
 - 👀 I’m interested in automating processes
 - 🌱 I’m currently learning Go
-- 💞️ I’m looking to collaborate on revamped AWS UI
+- 💞️ I’m looking to collaborate on developing a government running entirely on blockchain
 - 📫 How to reach me - DM
 
 <!---
